@@ -62,7 +62,7 @@ class MyApp extends StatelessWidget {
               'https://snowy-firefly.eu-central-1.aws.cloud.dgraph.io/graphql'),
           cache: GraphQLCache())),
       child: MaterialApp(
-        title: 'Pokédex',
+        title: 'Pokedex',
         theme: ThemeData(
           primaryColor: AppColors.inputContainerBackground,
           accentColor: AppColors.displayContainerBackground,
