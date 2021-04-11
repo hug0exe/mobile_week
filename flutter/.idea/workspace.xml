@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="80e60628-67e6-4220-a0a9-b2505e119c6b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/drawable-v24/input_item_border.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/styles.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/java/com/example/myapplication/MainActivity.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../MyApplication/app/src/main/res/values/colors.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/calculator/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/calculator/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../react/Calculator" beforeDir="false" afterPath="$PROJECT_DIR$/../react/Calculator" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
